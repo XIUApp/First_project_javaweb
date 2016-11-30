@@ -3,6 +3,8 @@ package com.jikexueyuan.action;
 import com.opensymphony.xwork2.ActionSupport;
 
 public class LoginAction extends ActionSupport {
+
+//这是linlin这个用户进行的分支开发，等待合并分支
 	
 	/**
 	 * 
